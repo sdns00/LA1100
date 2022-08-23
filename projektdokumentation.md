@@ -20,7 +20,8 @@ Wir programmieren das Spiel
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |muss             |funktional|Als ein Nutzer möchte ich, wenn die Zahl zu hoch/tief ist, dass mir ein Hinweis gegeben wird.|
 | 2    |muss             |funktional|Als ein Admin möchte ich, dass die Hinweise erst nach dem zweiten Versuch erscheinen, damit es für den Nutzer spannender ist zu spielen.|      
-| 3    |muss             |funktional|Als ein Admin möchte ich, das die falsche geratene Zahl rot erscheint, damit es offensichtlicher ist für den Nutzer.|             | 4    |kann             |Qualität  |Als ein Admin möchte ich, dass im Hintergrund nach dem Gewinnen eine Musik lauft, damit der Spieler Freude hat.|
+| 3    |muss             |funktional|Als ein Admin möchte ich, das die falsche geratene Zahl rot erscheint, damit es offensichtlicher ist für den Nutzer.|             
+| 4    |kann             |Qualität  |Als ein Admin möchte ich, dass im Hintergrund nach dem Gewinnen eine Musik lauft, damit der Spieler Freude hat.|
 
 
 ### 1.3 Testfälle
@@ -34,7 +35,9 @@ Wir programmieren das Spiel
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+ 
+![number guessing](https://user-images.githubusercontent.com/111340832/186126089-58040d56-fcff-4317-937b-b1ddb10a5c83.png)
+
 
 ## 2 Planen
 
