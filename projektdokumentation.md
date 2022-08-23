@@ -4,7 +4,7 @@ Sudenas Eser
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 23.08 | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 23.08 | 0.0.1   | Ich habe die user storys erstellt und einen Diagramm zum Spiel "number guessing" errichtet.
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -12,7 +12,7 @@ Sudenas Eser
 
 ### 1.1 Ihr Projekt
 
-Wir programmieren das Spiel 
+Wir programmieren das Spiel "number guessing".
 
 ### 1.2 User Stories
 
