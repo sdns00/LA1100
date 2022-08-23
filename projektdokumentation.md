@@ -18,8 +18,9 @@ Wir programmieren das Spiel
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss            |funktional| Als ein Nutzer möchte ich, wenn die Zahl zu hoch/tief ist,dass mir ein Hinweis gegeben wird.|
-| ...  |muss             |funktional|    |                                    |
+| 1    |muss             |funktional|Als ein Nutzer möchte ich, wenn die Zahl zu hoch/tief ist,dass mir ein Hinweis gegeben wird.|
+| 2    |muss             |funktional|Als ein Admin möchte ich, dass die Hinweise erst nach dem zweiten Versuch erscheinen, damit es für den Nutzer spannender ist zu spielen.|      
+| 3    |muss             |funktional|Als ein Admin möchte ich, das die falsche geratene Zahl rot erscheint, damit es offensichtlicher ist für den Nutzer.|             | 4    |kann             |Qualität  |Als ein Admin möchte ich, dass im Hintergrund nach dem Gewinnen eine Musik lauft, damit der Spieler Freude hat.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
